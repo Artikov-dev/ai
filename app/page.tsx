@@ -20,11 +20,11 @@ export default function Home() {
           <div className="grid md:grid-cols-2 gap-6 text-left">
             <div className="space-y-2">
               <p className="text-sm text-gray-500 dark:text-gray-400">Learner ID:</p>
-              <p className="font-semibold text-gray-800 dark:text-gray-200">506241100373</p>
+              <p className="font-semibold text-gray-800 dark:text-gray-200">240358</p>
             </div>
             <div className="space-y-2">
               <p className="text-sm text-gray-500 dark:text-gray-400">Assessor Name:</p>
-              <p className="font-semibold text-gray-800 dark:text-gray-200">Vahobjon Najmiddinov</p>
+              <p className="font-semibold text-gray-800 dark:text-gray-200">A'zamjon Boydedayev</p>
             </div>
             <div className="space-y-2">
               <p className="text-sm text-gray-500 dark:text-gray-400">BTEC Programme Title:</p>
@@ -34,7 +34,7 @@ export default function Home() {
             </div>
             <div className="space-y-2">
               <p className="text-sm text-gray-500 dark:text-gray-400">Unit or Component Number and Title:</p>
-              <p className="font-semibold text-gray-800 dark:text-gray-200">Unit X: Information Technology System</p>
+              <p className="font-semibold text-gray-800 dark:text-gray-200">Unit 21: Information Technology System</p>
             </div>
             <div className="space-y-2">
               <p className="text-sm text-gray-500 dark:text-gray-400">Date Assignment Submitted:</p>
